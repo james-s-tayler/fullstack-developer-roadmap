@@ -8,7 +8,7 @@ This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD)
 
 # Backend
 - A backend language
-- Backend language internals (JVM, CLR etc)
+- Backend language VM/interpreter internals (JVM, CLR etc)
 - A scripting language
 - A web-app framework
 - A data access library/framework 
