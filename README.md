@@ -1,4 +1,6 @@
-# What _should_ you know as a developer who wants to master their craft? 
+# Full-Stack Developer Roadmap
+
+The following roadmap represents an inventory of software engineering skills spanning junior, intermediate, senior and principal level  skills and might take an entire 10 ~ 20 year career to achieve. Don't get imposter syndrome just yet, most developers will never know the entire list. 
 
 # Backend
 - A backend language
