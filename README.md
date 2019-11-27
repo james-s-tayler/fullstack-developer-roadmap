@@ -80,7 +80,7 @@ This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD)
 - High availability / multi-region architectures
 
 # Bonus points
- - VCS internals
+ - VCS internals (git, mercurial etc)
  - How a specific OS file system works
  - How a specific OS does thread scheduling
  - How a specific OS does virtual memory management
