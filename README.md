@@ -2,7 +2,7 @@
 
 The following roadmap represents an inventory of software engineering skills spanning junior, intermediate, senior and principal level  skills and might take an entire 10 ~ 20 year career to achieve. Don't get imposter syndrome just yet, most developers will never know the entire list. 
 
-The entire inventory of skills _should_ be present in aggregate across the engineering organization your work in. This roadmap is a useful guide to plug gaps in your own knowledge or find a niche in your organization that isn't well understood and cover it.
+The entire inventory of skills _should_ be present in aggregate across the engineering organization you work in. This roadmap is a useful guide to plug gaps in your own knowledge or find a niche in your organization that isn't well understood and cover it.
 
 # Backend
 - A backend language
