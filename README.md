@@ -16,7 +16,7 @@ The following roadmap represents an inventory of software engineering skills spa
 - SQL/NoSQL/NewSql
 - Query tuning
 - Transactions
-- Database internals
+- Database internals for a specifc vendor's database (SQL Server, PostgreSQL, Oracle etc)
 - MVC framework internals
 - Concurrency primitives
 - Thread safety
