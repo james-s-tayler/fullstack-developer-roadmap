@@ -4,7 +4,7 @@ The following roadmap represents an inventory of software engineering skills spa
 
 The entire inventory of skills _should_ be present in aggregate across the engineering organization you work in. This roadmap is a useful guide to plug gaps in your own knowledge or find a niche in your organization that isn't well understood and cover it.
 
-This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD) applications and assumes a SaaS model.
+This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD) applications and assumes a SaaS model with global presence.
 
 # Backend
 - A backend language
