@@ -8,10 +8,11 @@ This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD)
 
 # Backend
 - A backend language
+- Backend language internals (JVM, CLR etc)
 - A scripting language
 - A web-app framework
 - A data access library/framework 
-- Data access library / framework internals
+- Data access library/framework internals
 - A unit testing framework
 - An integration testing framework
 - A logging / distributed tracing framework
