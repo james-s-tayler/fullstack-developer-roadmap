@@ -52,6 +52,7 @@ This list is aimed at developers working on B2B or B2C 'Line of Business' (CRUD)
 - CSS (Flexbox, Grid etc)
 - A CSS Architecture
 - A CSS framework (bulma, tailwind, bootstrap etc)
+- Responsive layouts
 - A frontend framework (react, vue, angular, svelte etc)
 - frontend framework internals
 - A component library
